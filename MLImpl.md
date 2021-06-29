@@ -8,6 +8,7 @@
 - https://towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5
 
 ## RNN
+- https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
 - https://towardsdatascience.com/implementing-recurrent-neural-network-using-numpy-c359a0a68a67
 - http://aikorea.org/blog/rnn-tutorial-1/
 - https://aikorea.org/blog/rnn-tutorial-2/
